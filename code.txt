@@ -1,4 +1,4 @@
 int x=5;
-int z=70;
+int y=70;
 
-std::cout<<x+z;
+std::cout<<x+y;
